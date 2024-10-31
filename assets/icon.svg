@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1006 1006" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(0.523951,0,0,0.93147,0,0)">
+        <rect x="0" y="0" width="1920" height="1080" style="fill:none;"/>
+        <g id="Layer1" transform="matrix(1.90858,0,0,1.07357,-1466.48,-32.4948)">
+            <g transform="matrix(1,0,0,1,215.156,197.892)">
+                <path d="M1487.82,233.054C1487.82,176.584 1441.97,130.738 1385.51,130.738L726.897,130.738C670.428,130.738 624.582,176.584 624.582,233.054L624.582,437.685C624.582,494.154 670.428,540 726.897,540L1385.51,540C1441.97,540 1487.82,494.154 1487.82,437.685L1487.82,233.054Z" style="fill:rgb(228,123,55);"/>
+            </g>
+            <g transform="matrix(2.4281,0,0,2.39694,266.386,-1.32273)">
+                <text x="299.973px" y="279.448px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:157.639px;fill:white;">&lt;/&gt;</text>
+            </g>
+        </g>
+    </g>
+</svg>
